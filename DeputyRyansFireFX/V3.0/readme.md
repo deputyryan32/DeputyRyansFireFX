@@ -14,8 +14,8 @@
   - **5x Chaos:** Quintupled fire parameters, resulting in maximum chaos with dramatic fire effects and extended burn durations.
 
 ## Installation:
-1. Navigate to `GTA V Directory > Mods > Update > Update.RPF > Common > Data > Effects`.
-2. Replace the existing `FireFX.dat` file with the updated file from this mod.
+1. Navigate to GTA V Directory > Mods > Update > Update.RPF > Common > Data > Effects.
+2. Replace the existing FireFX.dat file with the updated file from this mod.
 3. Ensure you back up your original files before installing the mod.
 
 Enjoy the heightened chaos and destruction in your gameplay!
